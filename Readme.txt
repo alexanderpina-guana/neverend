@@ -1,0 +1,1 @@
+ConstitutionArticle.html and colorsheet.css outputs a webpage that presents the first article of the United States Constitution. It has a burlywood background and brown text. All text is aligned to the center. There is an empty link that becomes aqua colored the moment you click on it. Paragraph text has been made slightly larger to be more readable.
