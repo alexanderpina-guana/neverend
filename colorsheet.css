@@ -1,0 +1,37 @@
+/*Makes the background of the website like the brownish paper of the real Constitution*/
+body{
+	background-color: burlywood;
+	color:chocolate;
+	/*Aligns all text to the center to make everything less disjointed*/
+	text-align: center;
+}
+/*All text color was changed to chocolate to fit the background*/
+h1{
+	color: chocolate;
+	text-shadow:0 0 2px chocolate;
+	font-family: times new roman, arial;
+}
+
+h2{
+	color: chocolate;
+	text-shadow:0 0 2px chocolate;
+	font-family: times new roman, arial;
+}
+
+h3{
+	color: chocolate;
+	text-shadow:0 0 2px chocolate;
+	font-family: times new roman, arial;
+}
+
+p{
+	color: chocolate;
+	text-shadow:0 0 2px chocolate;
+	font-family: times new roman, arial;
+	/*Paragraph text was made larger to make it more readable*/
+	font-size: large;
+}
+/*The Color that appear when you click on the link*/
+a:visited{
+	color: aqua;
+}
