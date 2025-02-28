@@ -1,0 +1,31 @@
+/*Design of the entire website*/
+body{
+    background-color: forestgreen;
+    padding: 0;
+    margin: 0;
+}
+/*Design of the image*/
+img{
+    width: 80%;
+}
+/*Design of the top text*/
+header{
+    background: linear-gradient(to right, cyan, aquamarine);
+    text-align: center;
+    padding: 50px 20px;
+}
+/*Design of the button*/
+.btn{
+    background-color: black;
+    color: darkgreen;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+/*How the button looks when the cursor hovers over it*/
+.btn:hover{
+    color: black;
+    background-color: darkgreen;
+}
